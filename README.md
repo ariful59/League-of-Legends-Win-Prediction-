@@ -1,1 +1,1 @@
-# League-of-Legends-Win-Prediction-
+This project is part of the Introduction to Neural Networks and PyTorch course on Coursera. It uses machine learning and PyTorch to predict the outcome of League of Legends matches based on in-game statistics. I performed data preprocessing, exploratory data analysis (EDA), feature selection, and trained multiple classification models—including a neural network using PyTorch. Model performance was evaluated using accuracy scores and confusion matrices, with insights visualized using Matplotlib and Seaborn.
